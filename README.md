@@ -14,6 +14,6 @@ React, Supabase, Bootstrap, react-photo-album
 # Style 
 I wanted a dreamy look to the web-site as a whole and so I made the background color to have warm undertones rather than straight black. This lended itself nicely to that look with the [snow](https://codepen.io/alphardex/pen/dyPorwJ). While viewing the photography page the  visitor can enjoy the music by Joshua Martin. 
 
-![](/my-app/public/images/Screenshot.png)
+![image](public/images/Screenshot.png)
 
 
