@@ -23,10 +23,10 @@ function Photography() {
   return (
     <div className="px-2">
       <Snow />
-      <div className="d-flex justify-content-between">
-        <Player url={"/media/Yosemite_lenscape.mp3"} />
+      <div className="d-flex justify-content-center w-100">
+        
         <h2>Photography</h2>
-        <a className= "url" href= "https://soundcloud.com/manuscriptmastr/yosemite-lenscape-a-travel-montage?utm_source=clipboard"> Music by Joshua Martin</a>
+        
       </div>
       
       <PhotoAlbum layout="rows" photos={photos} />

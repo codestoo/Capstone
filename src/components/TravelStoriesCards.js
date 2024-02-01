@@ -59,7 +59,7 @@ function TravelStoriesCards() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted"></small>
         </Card.Footer>
       </Card>
       <Card>
@@ -129,7 +129,7 @@ Like the English breakfast, the Scottish breakfast was very hardy: eggs cooked t
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          <small className="text-muted"></small>
         </Card.Footer>
       </Card>
       <Card>
@@ -143,7 +143,7 @@ Like the English breakfast, the Scottish breakfast was very hardy: eggs cooked t
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">Last updated 3 mins ago</small>
+          {/* <small className="text-muted"></small> */}
         </Card.Footer>
       </Card>
     </CardGroup>

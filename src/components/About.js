@@ -47,7 +47,7 @@ function About() {
           I love to learn. I realized that when I homeschooled my sons. I didn’t
           love my schooling growing up in public school — memorize this and take
           a test. As you get older you should always be learning something new
-          and that desire should be there. I can say I instilled that in my — a
+          and that desire should be there. I can say I instilled that in my sons — a
           love to learn.
           <br />
           <br />
